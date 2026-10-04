@@ -6,12 +6,10 @@ Computer Science Graduate from NIT Calicut| Full stack developer
 
 - 🔭 I’m currently working at **Deutsche Bank** as a **Senior Analyst**
 - 🤖 I’ve worked in **LLM-based systems, semantic retrieval, RAG, evaluation pipelines, cloud-based AI applications and front end development**
-- 📫 How to reach me: **ssaarsha@gmail.com**
 
-
-<h4 align="left">Connect with me:</h4>
 
 <p align="left">
+  Connect with me : 
 <a href="https://www.linkedin.com/in/aarsha-s-s/" target="blank">
 <img align="center"
 src="https://www.linkedin.com/in/aarsha-s-s/"
