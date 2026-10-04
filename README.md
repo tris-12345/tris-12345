@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aarsha S S</h1>
+<h2 align="center">Hi, I'm Aarsha S S</h1>
 
 <h3 align="center">
 Computer Science Graduate from NIT Calicut| Full stack developer
