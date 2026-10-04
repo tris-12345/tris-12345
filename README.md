@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aarsha S S</h1>
 
 <h3 align="center">
-Computer Science Graduate | Applied AI Engineer | Exploring Machine Learning & Cybersecurity
+Computer Science Graduate | Full stack developer | Exploring Machine Learning & Cybersecurity
 </h3>
 
 - 🎓 B.Tech in Computer Science and Engineering from **NIT Calicut**
 
-- 🔭 I’m currently working at **Deutsche Bank** as an **Applied AI Engineer**
+- 🔭 I’m currently working at **Deutsche Bank** as a **Senior Analyst**
 
-- 🤖 I’ve worked on **LLM-based systems, semantic retrieval, RAG, evaluation pipelines, and cloud-based AI applications**
+- 🤖 I’ve worked on **LLM-based systems, semantic retrieval, RAG, evaluation pipelines, cloud-based AI applications and with React and typescript for front end development**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Cybersecurity**
+- 🌱 I’m currently learning **Deep Learning, and Cybersecurity**
 
 - 📫 How to reach me: **ssaarsha@gmail.com**
 
@@ -18,7 +18,7 @@ Computer Science Graduate | Applied AI Engineer | Exploring Machine Learning & C
 
 <h3 align="left">💼 Experience</h3>
 
-### Deutsche Bank — Applied AI Engineer
+### Deutsche Bank — Senior Analyst
 Working on enterprise AI and software systems involving:
 
 - Retrieval-Augmented Generation (RAG)
@@ -85,7 +85,7 @@ Currently building and updating a repository while learning:
 <p align="left">
 <a href="YOUR_LINKEDIN_URL" target="blank">
 <img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+src="https://www.linkedin.com/in/aarsha-s-s/"
 alt="Aarsha S S"
 height="30"
 width="40" />
