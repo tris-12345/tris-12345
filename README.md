@@ -1,84 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aarsha S S</h1>
 
 <h3 align="center">
-Computer Science Graduate | Full stack developer | Exploring Machine Learning & Cybersecurity
+Computer Science Graduate from NIT Calicut| Full stack developer
 </h3>
 
-- 🎓 B.Tech in Computer Science and Engineering from **NIT Calicut**
-
 - 🔭 I’m currently working at **Deutsche Bank** as a **Senior Analyst**
-
 - 🤖 I’ve worked on **LLM-based systems, semantic retrieval, RAG, evaluation pipelines, cloud-based AI applications and with React and typescript for front end development**
-
-- 🌱 I’m currently learning **Deep Learning, and Cybersecurity**
-
 - 📫 How to reach me: **ssaarsha@gmail.com**
 
----
-
-<h3 align="left">💼 Experience</h3>
-
-### Deutsche Bank — Senior Analyst
-Working on enterprise AI and software systems involving:
-
-- Retrieval-Augmented Generation (RAG)
-- Semantic search and document retrieval
-- LLM evaluation and validation
-- Google Cloud, Vertex AI, and BigQuery
-- Backend and frontend development
-- Production AI workflows
-
-Previously worked at Deutsche Bank as a **Software Engineering Intern**, primarily on automation using Ansible.
-
----
-
-<h3 align="left">🚀 Projects</h3>
-
-### 🤖 DTCC & FINOS Innovate 2025
-Built an **agentic AI platform for trade validation, liquidity forecasting, and settlement-related analysis**.
-
-- Automated trade verification
-- Cash-flow and liquidity forecasting
-- AI-driven workflow automation
-- Built using **Python, AWS Bedrock, and AWS Lambda**
-
-🏆 **3rd Place — DTCC & FINOS Innovate 2025**
-
----
-
-### 🛠️ SpotPro
-A mobile application built using **Flutter and Dart** to connect users with local service providers.
-
-Features include:
-
-- User and service-provider registration
-- Location-based service discovery
-- Service bookings and requests
-- Provider availability
-- Ratings and reviews
-- Firebase backend
-
----
-
-### 🌐 Web Development Projects
-
-- **Keeper App** — note-taking application with MongoDB backend
-- **Todo List** — task management web application
-- Other frontend and backend learning projects
-
----
-
-### 📚 Machine Learning — Ongoing
-
-Currently building and updating a repository while learning:
-
-- Supervised learning
-- Neural networks
-- Optimization
-- Reinforcement learning
-- Practical ML implementations in Python
-
----
 
 <h3 align="left">Connect with me:</h3>
 
