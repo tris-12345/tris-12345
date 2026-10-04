@@ -12,7 +12,7 @@ Computer Science Graduate from NIT Calicut| Full stack developer
 <h4 align="left">Connect with me:</h4>
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank">
+<a href="https://www.linkedin.com/in/aarsha-s-s/" target="blank">
 <img align="center"
 src="https://www.linkedin.com/in/aarsha-s-s/"
 alt="Aarsha S S"
