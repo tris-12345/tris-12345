@@ -34,6 +34,7 @@ The system included:
 - Liquidity forecasting
 - Cash-flow prediction
 - AI-driven workflow automation
+- https://github.com/finos-labs/dtcch-2025-xypher
 
 🏆 **3rd Place — DTCC & FINOS Innovate 2025**
 
