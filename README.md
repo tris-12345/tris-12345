@@ -5,7 +5,7 @@ Computer Science Graduate from NIT Calicut| Full stack developer
 </h4>
 
 - 🔭 I’m currently working at **Deutsche Bank** as a **Senior Analyst**
-- 🤖 I’ve worked on **LLM-based systems, semantic retrieval, RAG, evaluation pipelines, cloud-based AI applications and with React and typescript for front end development**
+- 🤖 I’ve worked in **LLM-based systems, semantic retrieval, RAG, evaluation pipelines, cloud-based AI applications and front end development**
 - 📫 How to reach me: **ssaarsha@gmail.com**
 
 
